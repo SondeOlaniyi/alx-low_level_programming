@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - unix is basically a simple operating system
+ * main - unix is basically a simple operating syst
  * Return: 1 (complete)
  */
 int main(void)
