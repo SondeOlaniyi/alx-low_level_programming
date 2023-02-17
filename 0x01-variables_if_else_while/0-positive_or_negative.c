@@ -6,7 +6,7 @@
 /**
  * main - print positive or negative
  *
- * Return: always 0
+ * Return: 0 (always)
  */
 int main(void)
 {
@@ -20,5 +20,7 @@ int main(void)
 	else if (n == 0)
 		printf("%d is zero", n);
 	else
-		printf("%d is zero", n);
+		printf("%d is negative", n);
+	printf("\n");
 	return (0);
+}
